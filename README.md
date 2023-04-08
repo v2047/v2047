@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @v2047
 - 👀 I’m interested in develop to my career in data analyst field. 
-- 🌱 I’m working at accenture as application development associate post. Apart from that I am enhancing my skills in data analyst field
-- 💞️ I’m looking for a part time internship as well in data analyst.
+- 🌱 I’m working at accenture as application development associate post. Apart from that I am enhancing my skills in data analyst field.
 - 📫 You can reach out to me tomar9231@gmail.com
 
 <!---
