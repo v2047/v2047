@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @v2047
-- 👀 I’m interested in develop to my career in data analyst field. 
-- 🌱 I’m working at accenture as application development associate post. Apart from that I am enhancing my skills in data analyst field.
-- 📫 You can reach out to me tomar9231@gmail.com
+- 👀 I’m interested in developing my career in the Data Science field. 
+- 🌱 I’m working  at Accenture as a Custom Software Engineer Analyst post and also pursuing a master's in Data Science.
+- 📫 You can reach out to me at tomar9231@gmail.com
 
 <!---
 v2047/v2047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
